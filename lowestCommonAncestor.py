@@ -25,7 +25,7 @@ def findPath(root, path, k):
     return False
 
 
-def findLca(root, n1, n2):
+def findLCA(root, n1, n2):
 
     path1 = []
     path2 = []
